@@ -7,7 +7,7 @@ Able to use **geospatial technologies** to create and maintain maps, models, and
 
 # **Education**
 
-Bsc. of **Geomatics Engineering** from [Shoubra Faculty of Engineering, Benha University](http://feng.bu.edu.eg/).
+- Bsc. of **Geomatics Engineering** from [Shoubra Faculty of Engineering, Benha University](http://feng.bu.edu.eg/).
 
 # Links
 
