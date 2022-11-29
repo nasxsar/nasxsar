@@ -9,19 +9,18 @@ Able to use **geospatial technologies** to create and maintain maps, models, and
 
 Bsc. of **Geomatics Engineering** from [Shoubra Faculty of Engineering, Benha University](http://feng.bu.edu.eg/).
 
-~
-~
-~
-
-
-# That's all for Now ❤️
-
-
+# Links
 
  - [Linkedin](https://www.linkedin.com/in/ahm9d/)
  - [Facebook](https://web.facebook.com/nasxsar/)
  - [Github](https://github.com/nasxsar)
 
+
+~
+~
+~
+
+# That's all for Now ❤️
 
 
 
